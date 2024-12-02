@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the project configuration is incorrect, such as missing or invalid API keys or database URLs.  This often manifests as a generic error message that is difficult to debug.  Another problem is data inconsistencies when multiple clients write to the database simultaneously without proper transaction management.
