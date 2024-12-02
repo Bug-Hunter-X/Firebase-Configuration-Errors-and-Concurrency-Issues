@@ -1,0 +1,1 @@
+This repository contains examples demonstrating common Firebase configuration errors and concurrency issues.  The `firebaseBug.js` file shows code that can lead to these problems, while `firebaseSolution.js` offers solutions with error handling and transaction management strategies.
